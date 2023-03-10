@@ -1,2 +1,3 @@
 Here is some sample text. 
 Add, and then commit. 
+Testing VS Code commit message configurations
